@@ -8,7 +8,7 @@
 
 Path: `/HW9_Webpage.png`
 
-![Screenshot of the finished webpage](screenshot.png)
+![Screenshot of the finished webpage](HW9_Webpage.png)
 
 ## Built-In Objects and Methods Used
 
