@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-Path: `HW9_Webpage.png`
+Path: `/HW9_Webpage.png`
 
 ![Screenshot of the finished webpage](screenshot.png)
 
